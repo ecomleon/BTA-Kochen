@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    }
+
+    header{
+        background-color: burlywood;
+
+    }
+    a{
+        color:black;
+        text-decoration: none;
+    }
+    ul{
+        list-style-type: none;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    
+    
+    #doc-header{
+        background-color: yellow;
+    
+    }
+    .rot{
+        background-color: red;
+
+    }
